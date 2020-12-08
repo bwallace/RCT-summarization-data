@@ -8,12 +8,14 @@ See the Jupyter notebook for a bit more explanation.
 
 If you use this data, please cite:
 
+```
 @inproceedings{AMIA-summarization-2021,
     title = {{Generating (Factual?) Narrative Summaries of RCTs: Experiments with Neural Multi-Document Summarization}},
     author = {Byron C. Wallace and Sayantan Saha and Frank Soboczenski and Iain J. Marshall},
     Booktitle = {{Proceedings of AMIA Informatics Summit}},
     year = {2021},
 }
+```
 
 Questions to: b.wallace@northeastern.edu.
 
